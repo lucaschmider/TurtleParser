@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/luca/Documents/VEGA/Ausbildung/Semester 5/Einführung KI/Semantic Web/Abgabe/TurtleParser/TurtleParser.Generator/TurtleParser.Generator.csproj": {}
+    "C:\\Users\\lucas\\Desktop\\TravelAtVisor.Service\\TurtleParser\\TurtleParser.Generator\\TurtleParser.Generator.csproj": {}
   },
   "projects": {
-    "/Users/luca/Documents/VEGA/Ausbildung/Semester 5/Einführung KI/Semantic Web/Abgabe/TurtleParser/TurtleParser.Contracts/TurtleParser.Contracts.csproj": {
+    "C:\\Users\\lucas\\Desktop\\TravelAtVisor.Service\\TurtleParser\\TurtleParser.Contracts\\TurtleParser.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/luca/Documents/VEGA/Ausbildung/Semester 5/Einführung KI/Semantic Web/Abgabe/TurtleParser/TurtleParser.Contracts/TurtleParser.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\Desktop\\TravelAtVisor.Service\\TurtleParser\\TurtleParser.Contracts\\TurtleParser.Contracts.csproj",
         "projectName": "TurtleParser.Contracts",
-        "projectPath": "/Users/luca/Documents/VEGA/Ausbildung/Semester 5/Einführung KI/Semantic Web/Abgabe/TurtleParser/TurtleParser.Contracts/TurtleParser.Contracts.csproj",
-        "packagesPath": "/Users/luca/.nuget/packages/",
-        "outputPath": "/Users/luca/Documents/VEGA/Ausbildung/Semester 5/Einführung KI/Semantic Web/Abgabe/TurtleParser/TurtleParser.Contracts/obj/",
+        "projectPath": "C:\\Users\\lucas\\Desktop\\TravelAtVisor.Service\\TurtleParser\\TurtleParser.Contracts\\TurtleParser.Contracts.csproj",
+        "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucas\\Desktop\\TravelAtVisor.Service\\TurtleParser\\TurtleParser.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/luca/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -47,39 +49,60 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+              "version": "[6.0.1, 6.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x64",
+              "version": "[6.0.1, 6.0.1]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+              "version": "[6.0.1, 6.0.1]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
         }
       }
     },
-    "/Users/luca/Documents/VEGA/Ausbildung/Semester 5/Einführung KI/Semantic Web/Abgabe/TurtleParser/TurtleParser.Generator/TurtleParser.Generator.csproj": {
+    "C:\\Users\\lucas\\Desktop\\TravelAtVisor.Service\\TurtleParser\\TurtleParser.Generator\\TurtleParser.Generator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/luca/Documents/VEGA/Ausbildung/Semester 5/Einführung KI/Semantic Web/Abgabe/TurtleParser/TurtleParser.Generator/TurtleParser.Generator.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\Desktop\\TravelAtVisor.Service\\TurtleParser\\TurtleParser.Generator\\TurtleParser.Generator.csproj",
         "projectName": "TurtleParser.Generator",
-        "projectPath": "/Users/luca/Documents/VEGA/Ausbildung/Semester 5/Einführung KI/Semantic Web/Abgabe/TurtleParser/TurtleParser.Generator/TurtleParser.Generator.csproj",
-        "packagesPath": "/Users/luca/.nuget/packages/",
-        "outputPath": "/Users/luca/Documents/VEGA/Ausbildung/Semester 5/Einführung KI/Semantic Web/Abgabe/TurtleParser/TurtleParser.Generator/obj/",
+        "projectPath": "C:\\Users\\lucas\\Desktop\\TravelAtVisor.Service\\TurtleParser\\TurtleParser.Generator\\TurtleParser.Generator.csproj",
+        "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucas\\Desktop\\TravelAtVisor.Service\\TurtleParser\\TurtleParser.Generator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/luca/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/luca/Documents/VEGA/Ausbildung/Semester 5/Einführung KI/Semantic Web/Abgabe/TurtleParser/TurtleParser.Contracts/TurtleParser.Contracts.csproj": {
-                "projectPath": "/Users/luca/Documents/VEGA/Ausbildung/Semester 5/Einführung KI/Semantic Web/Abgabe/TurtleParser/TurtleParser.Contracts/TurtleParser.Contracts.csproj"
+              "C:\\Users\\lucas\\Desktop\\TravelAtVisor.Service\\TurtleParser\\TurtleParser.Contracts\\TurtleParser.Contracts.csproj": {
+                "projectPath": "C:\\Users\\lucas\\Desktop\\TravelAtVisor.Service\\TurtleParser\\TurtleParser.Contracts\\TurtleParser.Contracts.csproj"
               }
             }
           }
@@ -109,12 +132,31 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+              "version": "[6.0.1, 6.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x64",
+              "version": "[6.0.1, 6.0.1]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+              "version": "[6.0.1, 6.0.1]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
         }
       }
     }

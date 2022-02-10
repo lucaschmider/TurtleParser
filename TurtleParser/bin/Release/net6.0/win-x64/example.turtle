@@ -1,0 +1,6 @@
+@prefix ex:<http://ex.org/>.
+@prefix springer:<http://springer.com/>.
+springer:Verlag ex:Name "Springer Verlag".
+ex:SemanticWeb ex:Autor ex:Hitzler, ex:Kroetzsch, ex:Rudolph, ex:Sure;
+               ex:verlegtBei springer:Verlag;
+               ex:Titel "Semantic Web = Grundlagen".

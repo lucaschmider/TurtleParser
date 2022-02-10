@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "9jLGZNi+cfuXzAH5iNanZjLuRnQqFD5qMPzYDV0z5kvVxkOV/s4/ujTqUN1SkBtIU7m/QP2R3e2CvQG98G3itw==",
+  "dgSpecHash": "uwTJLl/UEOo9ur+cIauVM+75xzeRLEKBIfeXziJVRZcEldSUXAnoyvMYnK2H5+QN9hFi2CLZjnzJNxyruU+p2g==",
   "success": true,
-  "projectFilePath": "/Users/luca/Documents/VEGA/Ausbildung/Semester 5/Einführung KI/Semantic Web/Abgabe/TurtleParser/TurtleParser.Contracts/TurtleParser.Contracts.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\lucas\\Desktop\\TravelAtVisor.Service\\TurtleParser\\TurtleParser.Contracts\\TurtleParser.Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.1\\microsoft.netcore.app.runtime.win-x64.6.0.1.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.1\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.1.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.1\\microsoft.aspnetcore.app.runtime.win-x64.6.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

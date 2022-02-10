@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta content="IE=edge" http-equiv="X-UA-Compatible" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <title>Document</title>
+    <style>
+      #cy {
+        width: 100vw;
+        height: 100vh;
+        display: block;
+      }
+    </style>
+    <script src="https://pagecdn.io/lib/cytoscape/3.20.0/cytoscape.min.js"></script>
+  </head>
+  <body>
+    <div id="cy"></div>
+
+    <script>
+         const elements = [{"data":{"id":"springer:Verlag"}},{"data":{"id":"\"Springer Verlag\""}},{"data":{"id":"ex:SemanticWeb"}},{"data":{"id":"ex:Hitzler"}},{"data":{"id":"ex:Kroetzsch"}},{"data":{"id":"ex:Rudolph"}},{"data":{"id":"ex:Sure"}},{"data":{"id":"\"Semantic Web = Grundlagen\""}},{"data":{"id":"joint-0","source":"springer:Verlag","target":"\"Springer Verlag\"","name":"ex:Name"}},{"data":{"id":"joint-1","source":"ex:SemanticWeb","target":"ex:Hitzler","name":"ex:Autor"}},{"data":{"id":"joint-2","source":"ex:SemanticWeb","target":"ex:Kroetzsch","name":"ex:Autor"}},{"data":{"id":"joint-3","source":"ex:SemanticWeb","target":"ex:Rudolph","name":"ex:Autor"}},{"data":{"id":"joint-4","source":"ex:SemanticWeb","target":"ex:Sure","name":"ex:Autor"}},{"data":{"id":"joint-5","source":"ex:SemanticWeb","target":"springer:Verlag","name":"ex:verlegtBei"}},{"data":{"id":"joint-6","source":"ex:SemanticWeb","target":"\"Semantic Web = Grundlagen\"","name":"ex:Titel"}}];
+      var cy = cytoscape({
+        container: document.getElementById("cy"), // container to render in
+        elements,
+        style: [
+          {
+            selector: "node",
+            style: {
+              "background-color": "#666",
+              label: "data(id)",
+            },
+          },
+          {
+            selector: "edge",
+            style: {
+              width: 3,
+              "line-color": "#ccc",
+              "target-arrow-color": "#ccc",
+              "target-arrow-shape": "triangle",
+              "curve-style": "bezier",
+              label: "data(name)",
+            },
+          },
+        ],
+      });
+
+      var layout = cy.elements().layout({
+        name: "circle",
+      });
+
+      layout.run();
+    </script>
+  </body>
+</html>

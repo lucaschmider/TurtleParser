@@ -57,6 +57,63 @@
           "bin/placeholder/TurtleParser.Reader.dll": {}
         }
       }
+    },
+    "net6.0/win-x64": {
+      "CommandLineParser/2.8.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/CommandLine.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/CommandLine.dll": {}
+        }
+      },
+      "Newtonsoft.Json/13.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
+      "TurtleParser.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/TurtleParser.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TurtleParser.Contracts.dll": {}
+        }
+      },
+      "TurtleParser.Generator/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.1",
+          "TurtleParser.Contracts": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TurtleParser.Generator.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TurtleParser.Generator.dll": {}
+        }
+      },
+      "TurtleParser.Reader/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "TurtleParser.Contracts": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TurtleParser.Reader.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TurtleParser.Reader.dll": {}
+        }
+      }
     }
   },
   "libraries": {
@@ -112,17 +169,17 @@
     "TurtleParser.Contracts/1.0.0": {
       "type": "project",
       "path": "../TurtleParser.Contracts/TurtleParser.Contracts.csproj",
-      "msbuildProject": "../../../../../Einführung KI/Semantic Web/Abgabe/TurtleParser/TurtleParser.Contracts/TurtleParser.Contracts.csproj"
+      "msbuildProject": "../TurtleParser.Contracts/TurtleParser.Contracts.csproj"
     },
     "TurtleParser.Generator/1.0.0": {
       "type": "project",
       "path": "../TurtleParser.Generator/TurtleParser.Generator.csproj",
-      "msbuildProject": "../../../../../Einführung KI/Semantic Web/Abgabe/TurtleParser/TurtleParser.Generator/TurtleParser.Generator.csproj"
+      "msbuildProject": "../TurtleParser.Generator/TurtleParser.Generator.csproj"
     },
     "TurtleParser.Reader/1.0.0": {
       "type": "project",
       "path": "../TurtleParser.Reader/TurtleParser.Reader.csproj",
-      "msbuildProject": "../../../../../Einführung KI/Semantic Web/Abgabe/TurtleParser/TurtleParser.Reader/TurtleParser.Reader.csproj"
+      "msbuildProject": "../TurtleParser.Reader/TurtleParser.Reader.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -134,38 +191,40 @@
     ]
   },
   "packageFolders": {
-    "/Users/luca/.nuget/packages/": {}
+    "C:\\Users\\lucas\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/luca/Documents/VEGA/Ausbildung/Semester 5/Einführung KI/Semantic Web/Abgabe/TurtleParser/TurtleParser/TurtleParser.csproj",
+      "projectUniqueName": "C:\\Users\\lucas\\Desktop\\TravelAtVisor.Service\\TurtleParser\\TurtleParser\\TurtleParser.csproj",
       "projectName": "TurtleParser",
-      "projectPath": "/Users/luca/Documents/VEGA/Ausbildung/Semester 5/Einführung KI/Semantic Web/Abgabe/TurtleParser/TurtleParser/TurtleParser.csproj",
-      "packagesPath": "/Users/luca/.nuget/packages/",
-      "outputPath": "/Users/luca/Documents/VEGA/Ausbildung/Semester 5/Einführung KI/Semantic Web/Abgabe/TurtleParser/TurtleParser/obj/",
+      "projectPath": "C:\\Users\\lucas\\Desktop\\TravelAtVisor.Service\\TurtleParser\\TurtleParser\\TurtleParser.csproj",
+      "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lucas\\Desktop\\TravelAtVisor.Service\\TurtleParser\\TurtleParser\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/luca/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/luca/Documents/VEGA/Ausbildung/Semester 5/Einführung KI/Semantic Web/Abgabe/TurtleParser/TurtleParser.Contracts/TurtleParser.Contracts.csproj": {
-              "projectPath": "/Users/luca/Documents/VEGA/Ausbildung/Semester 5/Einführung KI/Semantic Web/Abgabe/TurtleParser/TurtleParser.Contracts/TurtleParser.Contracts.csproj"
+            "C:\\Users\\lucas\\Desktop\\TravelAtVisor.Service\\TurtleParser\\TurtleParser.Contracts\\TurtleParser.Contracts.csproj": {
+              "projectPath": "C:\\Users\\lucas\\Desktop\\TravelAtVisor.Service\\TurtleParser\\TurtleParser.Contracts\\TurtleParser.Contracts.csproj"
             },
-            "/Users/luca/Documents/VEGA/Ausbildung/Semester 5/Einführung KI/Semantic Web/Abgabe/TurtleParser/TurtleParser.Generator/TurtleParser.Generator.csproj": {
-              "projectPath": "/Users/luca/Documents/VEGA/Ausbildung/Semester 5/Einführung KI/Semantic Web/Abgabe/TurtleParser/TurtleParser.Generator/TurtleParser.Generator.csproj"
+            "C:\\Users\\lucas\\Desktop\\TravelAtVisor.Service\\TurtleParser\\TurtleParser.Generator\\TurtleParser.Generator.csproj": {
+              "projectPath": "C:\\Users\\lucas\\Desktop\\TravelAtVisor.Service\\TurtleParser\\TurtleParser.Generator\\TurtleParser.Generator.csproj"
             },
-            "/Users/luca/Documents/VEGA/Ausbildung/Semester 5/Einführung KI/Semantic Web/Abgabe/TurtleParser/TurtleParser.Reader/TurtleParser.Reader.csproj": {
-              "projectPath": "/Users/luca/Documents/VEGA/Ausbildung/Semester 5/Einführung KI/Semantic Web/Abgabe/TurtleParser/TurtleParser.Reader/TurtleParser.Reader.csproj"
+            "C:\\Users\\lucas\\Desktop\\TravelAtVisor.Service\\TurtleParser\\TurtleParser.Reader\\TurtleParser.Reader.csproj": {
+              "projectPath": "C:\\Users\\lucas\\Desktop\\TravelAtVisor.Service\\TurtleParser\\TurtleParser.Reader\\TurtleParser.Reader.csproj"
             }
           }
         }
@@ -195,12 +254,31 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+            "version": "[6.0.1, 6.0.1]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Runtime.win-x64",
+            "version": "[6.0.1, 6.0.1]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+            "version": "[6.0.1, 6.0.1]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win-x64": {
+        "#import": []
       }
     }
   }

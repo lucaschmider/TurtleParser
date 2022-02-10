@@ -13,3 +13,18 @@
 /Users/luca/Documents/VEGA/Ausbildung/Semester 5/Entwicklung mobiler Applikationen/TurtleParser/TurtleParser.Reader/obj/Release/net6.0/TurtleParser.Reader.dll
 /Users/luca/Documents/VEGA/Ausbildung/Semester 5/Entwicklung mobiler Applikationen/TurtleParser/TurtleParser.Reader/obj/Release/net6.0/ref/TurtleParser.Reader.dll
 /Users/luca/Documents/VEGA/Ausbildung/Semester 5/Entwicklung mobiler Applikationen/TurtleParser/TurtleParser.Reader/obj/Release/net6.0/TurtleParser.Reader.pdb
+C:\Users\lucas\Desktop\TravelAtVisor.Service\TurtleParser\TurtleParser.Reader\bin\Release\net6.0\TurtleParser.Reader.deps.json
+C:\Users\lucas\Desktop\TravelAtVisor.Service\TurtleParser\TurtleParser.Reader\bin\Release\net6.0\TurtleParser.Reader.dll
+C:\Users\lucas\Desktop\TravelAtVisor.Service\TurtleParser\TurtleParser.Reader\bin\Release\net6.0\ref\TurtleParser.Reader.dll
+C:\Users\lucas\Desktop\TravelAtVisor.Service\TurtleParser\TurtleParser.Reader\bin\Release\net6.0\TurtleParser.Reader.pdb
+C:\Users\lucas\Desktop\TravelAtVisor.Service\TurtleParser\TurtleParser.Reader\bin\Release\net6.0\TurtleParser.Contracts.dll
+C:\Users\lucas\Desktop\TravelAtVisor.Service\TurtleParser\TurtleParser.Reader\bin\Release\net6.0\TurtleParser.Contracts.pdb
+C:\Users\lucas\Desktop\TravelAtVisor.Service\TurtleParser\TurtleParser.Reader\obj\Release\net6.0\TurtleParser.Reader.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\TravelAtVisor.Service\TurtleParser\TurtleParser.Reader\obj\Release\net6.0\TurtleParser.Reader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\TravelAtVisor.Service\TurtleParser\TurtleParser.Reader\obj\Release\net6.0\TurtleParser.Reader.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\TravelAtVisor.Service\TurtleParser\TurtleParser.Reader\obj\Release\net6.0\TurtleParser.Reader.AssemblyInfo.cs
+C:\Users\lucas\Desktop\TravelAtVisor.Service\TurtleParser\TurtleParser.Reader\obj\Release\net6.0\TurtleParser.Reader.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\TravelAtVisor.Service\TurtleParser\TurtleParser.Reader\obj\Release\net6.0\TurtleParser.Reader.csproj.CopyComplete
+C:\Users\lucas\Desktop\TravelAtVisor.Service\TurtleParser\TurtleParser.Reader\obj\Release\net6.0\TurtleParser.Reader.dll
+C:\Users\lucas\Desktop\TravelAtVisor.Service\TurtleParser\TurtleParser.Reader\obj\Release\net6.0\ref\TurtleParser.Reader.dll
+C:\Users\lucas\Desktop\TravelAtVisor.Service\TurtleParser\TurtleParser.Reader\obj\Release\net6.0\TurtleParser.Reader.pdb

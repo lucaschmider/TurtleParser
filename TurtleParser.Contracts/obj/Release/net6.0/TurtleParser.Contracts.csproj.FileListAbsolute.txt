@@ -10,3 +10,15 @@
 /Users/luca/Documents/VEGA/Ausbildung/Semester 5/Entwicklung mobiler Applikationen/TurtleParser/TurtleParser.Contracts/obj/Release/net6.0/TurtleParser.Contracts.dll
 /Users/luca/Documents/VEGA/Ausbildung/Semester 5/Entwicklung mobiler Applikationen/TurtleParser/TurtleParser.Contracts/obj/Release/net6.0/ref/TurtleParser.Contracts.dll
 /Users/luca/Documents/VEGA/Ausbildung/Semester 5/Entwicklung mobiler Applikationen/TurtleParser/TurtleParser.Contracts/obj/Release/net6.0/TurtleParser.Contracts.pdb
+C:\Users\lucas\Desktop\TravelAtVisor.Service\TurtleParser\TurtleParser.Contracts\bin\Release\net6.0\TurtleParser.Contracts.deps.json
+C:\Users\lucas\Desktop\TravelAtVisor.Service\TurtleParser\TurtleParser.Contracts\bin\Release\net6.0\TurtleParser.Contracts.dll
+C:\Users\lucas\Desktop\TravelAtVisor.Service\TurtleParser\TurtleParser.Contracts\bin\Release\net6.0\ref\TurtleParser.Contracts.dll
+C:\Users\lucas\Desktop\TravelAtVisor.Service\TurtleParser\TurtleParser.Contracts\bin\Release\net6.0\TurtleParser.Contracts.pdb
+C:\Users\lucas\Desktop\TravelAtVisor.Service\TurtleParser\TurtleParser.Contracts\obj\Release\net6.0\TurtleParser.Contracts.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\TravelAtVisor.Service\TurtleParser\TurtleParser.Contracts\obj\Release\net6.0\TurtleParser.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\TravelAtVisor.Service\TurtleParser\TurtleParser.Contracts\obj\Release\net6.0\TurtleParser.Contracts.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\TravelAtVisor.Service\TurtleParser\TurtleParser.Contracts\obj\Release\net6.0\TurtleParser.Contracts.AssemblyInfo.cs
+C:\Users\lucas\Desktop\TravelAtVisor.Service\TurtleParser\TurtleParser.Contracts\obj\Release\net6.0\TurtleParser.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\TravelAtVisor.Service\TurtleParser\TurtleParser.Contracts\obj\Release\net6.0\TurtleParser.Contracts.dll
+C:\Users\lucas\Desktop\TravelAtVisor.Service\TurtleParser\TurtleParser.Contracts\obj\Release\net6.0\ref\TurtleParser.Contracts.dll
+C:\Users\lucas\Desktop\TravelAtVisor.Service\TurtleParser\TurtleParser.Contracts\obj\Release\net6.0\TurtleParser.Contracts.pdb

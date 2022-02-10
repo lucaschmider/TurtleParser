@@ -13,3 +13,18 @@
 /Users/luca/Documents/VEGA/Ausbildung/Semester 5/Entwicklung mobiler Applikationen/TurtleParser/TurtleParser.Generator/obj/Release/net6.0/TurtleParser.Generator.dll
 /Users/luca/Documents/VEGA/Ausbildung/Semester 5/Entwicklung mobiler Applikationen/TurtleParser/TurtleParser.Generator/obj/Release/net6.0/ref/TurtleParser.Generator.dll
 /Users/luca/Documents/VEGA/Ausbildung/Semester 5/Entwicklung mobiler Applikationen/TurtleParser/TurtleParser.Generator/obj/Release/net6.0/TurtleParser.Generator.pdb
+C:\Users\lucas\Desktop\TravelAtVisor.Service\TurtleParser\TurtleParser.Generator\bin\Release\net6.0\TurtleParser.Generator.deps.json
+C:\Users\lucas\Desktop\TravelAtVisor.Service\TurtleParser\TurtleParser.Generator\bin\Release\net6.0\TurtleParser.Generator.dll
+C:\Users\lucas\Desktop\TravelAtVisor.Service\TurtleParser\TurtleParser.Generator\bin\Release\net6.0\ref\TurtleParser.Generator.dll
+C:\Users\lucas\Desktop\TravelAtVisor.Service\TurtleParser\TurtleParser.Generator\bin\Release\net6.0\TurtleParser.Generator.pdb
+C:\Users\lucas\Desktop\TravelAtVisor.Service\TurtleParser\TurtleParser.Generator\bin\Release\net6.0\TurtleParser.Contracts.dll
+C:\Users\lucas\Desktop\TravelAtVisor.Service\TurtleParser\TurtleParser.Generator\bin\Release\net6.0\TurtleParser.Contracts.pdb
+C:\Users\lucas\Desktop\TravelAtVisor.Service\TurtleParser\TurtleParser.Generator\obj\Release\net6.0\TurtleParser.Generator.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\TravelAtVisor.Service\TurtleParser\TurtleParser.Generator\obj\Release\net6.0\TurtleParser.Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\TravelAtVisor.Service\TurtleParser\TurtleParser.Generator\obj\Release\net6.0\TurtleParser.Generator.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\TravelAtVisor.Service\TurtleParser\TurtleParser.Generator\obj\Release\net6.0\TurtleParser.Generator.AssemblyInfo.cs
+C:\Users\lucas\Desktop\TravelAtVisor.Service\TurtleParser\TurtleParser.Generator\obj\Release\net6.0\TurtleParser.Generator.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\TravelAtVisor.Service\TurtleParser\TurtleParser.Generator\obj\Release\net6.0\TurtleParser.Generator.csproj.CopyComplete
+C:\Users\lucas\Desktop\TravelAtVisor.Service\TurtleParser\TurtleParser.Generator\obj\Release\net6.0\TurtleParser.Generator.dll
+C:\Users\lucas\Desktop\TravelAtVisor.Service\TurtleParser\TurtleParser.Generator\obj\Release\net6.0\ref\TurtleParser.Generator.dll
+C:\Users\lucas\Desktop\TravelAtVisor.Service\TurtleParser\TurtleParser.Generator\obj\Release\net6.0\TurtleParser.Generator.pdb

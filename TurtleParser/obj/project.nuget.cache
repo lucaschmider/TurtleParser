@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "u+tJEctn7gdYaYzGUDQubH++KR+kq3uWb98wjM9YaM3EBDUb9j+KPjHGMWYdAcGRP2TIO2vSOor1A5loyOktag==",
+  "dgSpecHash": "ScIjubsEs1PNxziyUNKmGS5LUdWEPs5fTa+PiMR0eh1WhVhMxlfx0d/MO27d4rPl50FNnAAiAv2YYDWkwirHOA==",
   "success": true,
-  "projectFilePath": "/Users/luca/Documents/VEGA/Ausbildung/Semester 5/Einführung KI/Semantic Web/Abgabe/TurtleParser/TurtleParser/TurtleParser.csproj",
+  "projectFilePath": "C:\\Users\\lucas\\Desktop\\TravelAtVisor.Service\\TurtleParser\\TurtleParser\\TurtleParser.csproj",
   "expectedPackageFiles": [
-    "/Users/luca/.nuget/packages/commandlineparser/2.8.0/commandlineparser.2.8.0.nupkg.sha512",
-    "/Users/luca/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+    "C:\\Users\\lucas\\.nuget\\packages\\commandlineparser\\2.8.0\\commandlineparser.2.8.0.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.1\\microsoft.netcore.app.runtime.win-x64.6.0.1.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.1\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.1.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.1\\microsoft.aspnetcore.app.runtime.win-x64.6.0.1.nupkg.sha512"
   ],
   "logs": []
 }

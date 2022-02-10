@@ -1,0 +1,6 @@
+C:\Users\lucas\Desktop\TravelAtVisor.Service\TurtleParser\TurtleParser\bin\Release\net6.0\win-x64\publish\TurtleParser.pdb
+C:\Users\lucas\Desktop\TravelAtVisor.Service\TurtleParser\TurtleParser\bin\Release\net6.0\win-x64\publish\example.turtle
+C:\Users\lucas\Desktop\TravelAtVisor.Service\TurtleParser\TurtleParser\bin\Release\net6.0\win-x64\publish\TurtleParser.Contracts.pdb
+C:\Users\lucas\Desktop\TravelAtVisor.Service\TurtleParser\TurtleParser\bin\Release\net6.0\win-x64\publish\TurtleParser.Generator.pdb
+C:\Users\lucas\Desktop\TravelAtVisor.Service\TurtleParser\TurtleParser\bin\Release\net6.0\win-x64\publish\TurtleParser.Reader.pdb
+C:\Users\lucas\Desktop\TravelAtVisor.Service\TurtleParser\TurtleParser\bin\Release\net6.0\win-x64\publish\TurtleParser.exe
