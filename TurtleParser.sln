@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurtleParser", "TurtleParser\TurtleParser.csproj", "{A84F3DBA-C7B6-4A8E-BE8A-823F614C5A2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurtleParser.Reader", "TurtleParser.Reader\TurtleParser.Reader.csproj", "{CA8B5EF4-279B-46C2-BBC4-18D9A120B33D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurtleParser.Contracts", "TurtleParser.Contracts\TurtleParser.Contracts.csproj", "{B304EE99-E5FC-42AB-8544-A83A655F3373}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurtleParser.Generator", "TurtleParser.Generator\TurtleParser.Generator.csproj", "{537EE679-03BC-4831-8A18-E7E6823970F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A84F3DBA-C7B6-4A8E-BE8A-823F614C5A2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A84F3DBA-C7B6-4A8E-BE8A-823F614C5A2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A84F3DBA-C7B6-4A8E-BE8A-823F614C5A2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A84F3DBA-C7B6-4A8E-BE8A-823F614C5A2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA8B5EF4-279B-46C2-BBC4-18D9A120B33D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA8B5EF4-279B-46C2-BBC4-18D9A120B33D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA8B5EF4-279B-46C2-BBC4-18D9A120B33D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA8B5EF4-279B-46C2-BBC4-18D9A120B33D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B304EE99-E5FC-42AB-8544-A83A655F3373}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B304EE99-E5FC-42AB-8544-A83A655F3373}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B304EE99-E5FC-42AB-8544-A83A655F3373}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B304EE99-E5FC-42AB-8544-A83A655F3373}.Release|Any CPU.Build.0 = Release|Any CPU
+		{537EE679-03BC-4831-8A18-E7E6823970F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{537EE679-03BC-4831-8A18-E7E6823970F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{537EE679-03BC-4831-8A18-E7E6823970F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{537EE679-03BC-4831-8A18-E7E6823970F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

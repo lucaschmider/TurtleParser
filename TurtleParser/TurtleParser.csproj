@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <PropertyGroup>
+        <PublishSingleFile>true</PublishSingleFile>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <None Remove="example.turtle"/>
+        <EmbeddedResource Include="example.turtle">
+            <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+        </EmbeddedResource>
+    </ItemGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\TurtleParser.Contracts\TurtleParser.Contracts.csproj"/>
+        <ProjectReference Include="..\TurtleParser.Generator\TurtleParser.Generator.csproj"/>
+        <ProjectReference Include="..\TurtleParser.Reader\TurtleParser.Reader.csproj"/>
+    </ItemGroup>
+
+    <ItemGroup>
+        <PackageReference Include="CommandLineParser" Version="2.8.0"/>
+    </ItemGroup>
+
+</Project>

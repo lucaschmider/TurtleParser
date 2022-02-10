@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+    <title>Document</title>
+    <style>
+        #cy {
+            width: 100vw;
+            height: 100vh;
+            display: block;
+        }
+    </style>
+    <script src="https://pagecdn.io/lib/cytoscape/3.20.0/cytoscape.min.js"></script>
+</head>
+<body>
+<div id="cy"></div>
+
+<script>
+    var cy = cytoscape({
+        container: document.getElementById("cy"), // container to render in
+        elements:
+    #
+    #DATA
+    ##,
+
+    [
+        // the stylesheet for the graph
+        {
+            selector: "node",
+            style: {
+                "background-color": "#666",
+                label: "data(id)",
+            },
+        },
+
+        {
+            selector: "edge",
+            style: {
+                width: 3,
+                "line-color": "#ccc",
+                "target-arrow-color": "#ccc",
+                "target-arrow-shape": "triangle",
+                "curve-style": "bezier",
+                label: "data(name)",
+            },
+        },
+    ],
+
+        layout
+    :
+    {
+        "grid",
+            rows
+    :
+        1,
+    }
+    ,
+    })
+
+    var layout = cy.elements().layout({
+        name: "circle",
+    });
+
+    layout.run();
+</script>
+</body>
+</html>
